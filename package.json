@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "shibaodi-pulsar-client": "^1.8.0-fx.0"
+  }
+}
